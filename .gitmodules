@@ -7,3 +7,6 @@
 [submodule "bepocious/Keebio-Parts.pretty"]
 	path = bepocious/Keebio-Parts.pretty
 	url = https://github.com/keebio/Keebio-Parts.pretty.git
+[submodule "bepocious/kbd"]
+	path = bepocious/kbd
+	url = https://github.com/foostan/kbd.git

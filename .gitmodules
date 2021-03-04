@@ -1,0 +1,9 @@
+[submodule "bepocious/random-keyboard-parts.pretty"]
+	path = bepocious/random-keyboard-parts.pretty
+	url = https://github.com/ai03-2725/random-keyboard-parts.pretty.git
+[submodule "bepocious/MX_Alps_Hybrid"]
+	path = bepocious/MX_Alps_Hybrid
+	url = https://github.com/ai03-2725/MX_Alps_Hybrid.git
+[submodule "bepocious/Keebio-Parts.pretty"]
+	path = bepocious/Keebio-Parts.pretty
+	url = https://github.com/keebio/Keebio-Parts.pretty.git

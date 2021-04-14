@@ -1,4 +1,5 @@
 EESchema Schematic File Version 4
+LIBS:bepocious-cache
 EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
@@ -14,7 +15,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L MCU_Microchip_ATmega:ATmega32U4-MU U?
+L bepocious-rescue:ATmega32U4-MU-MCU_Microchip_ATmega U?
 U 1 1 6041EC71
 P 7450 3650
 F 0 "U?" H 7450 1761 50  0000 C CNN
